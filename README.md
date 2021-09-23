@@ -5,4 +5,4 @@ an Application (Mobile Application) in rural development theme which includes:
 2. complete information about village.
 3. Brief information on National Government schemes .
 4. Establishing a Connection between farmers and village officers like filed officers, DAO, VRO, VRA.......
-And link for Apk: https://drive.google.com/file/d/1Nw4266pEcDCBS2A4BHnpZFmWAYbRfn13/view 
+And link for App:https://drive.google.com/drive/folders/1U6iTIyRuFnDe6rZyqzmsv3BlG2prOLAS
